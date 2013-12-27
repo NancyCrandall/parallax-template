@@ -1,4 +1,4 @@
-\$(document).ready(function () {
+$(document).ready(function () {
     $window = $(window);
 
     $('section[data-type="background"]').each(function () {
